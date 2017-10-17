@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24509" started-at="2017-10-16T14:14:03Z" finished-at="2017-10-16T14:14:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24509" started-at="2017-10-16T14:14:03Z" finished-at="2017-10-16T14:14:27Z">
+      <class name="com.puma.home.Testqwertty">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.puma.home.Testqwertty@c038203]" name="test" duration-ms="24493" started-at="2017-10-16T19:44:03Z" finished-at="2017-10-16T19:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.puma.home.Testqwertty -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
